@@ -19,6 +19,7 @@
 ## 🧰 Tech Stack
 
 **Languages**
+- C,C++
 - HTML
 - CSS
 - JavaScript
@@ -46,6 +47,7 @@
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: *Add your LinkedIn link here*
+- 💼 LinkedIn: (https://www.linkedin.com/in/neha-kudale)
 - 💻 GitHub: *You’re already here 😉*
-- 📧 Email: *Add your email here*
+- 📧 Email: nehakudale1234@gmail.com
+  
