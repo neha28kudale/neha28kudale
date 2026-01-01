@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hey 👋, I'm Neha  
 
-<!--
-**neha28kudale/neha28kudale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech Computer Science Student**  
+💻 Frontend Developer | Aspiring Software Engineer  
+🚀 Passionate about building clean, user-friendly web applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+- 🎓 Currently pursuing **B.Tech in Computer Science**
+- 🌱 Learning and improving **Web Development & DSA**
+- 🧠 Interested in **Web Development, Problem Solving & Product Engineering**
+- 🛠️ Working on real-world projects to strengthen fundamentals
+- 🎯 Preparing for **internships and placements**
+
+---
+
+## 🧰 Tech Stack
+
+**Languages**
+- HTML
+- CSS
+- JavaScript
+- Python
+
+**Frontend**
+- React
+- Tailwind CSS
+- Shadcn/UI
+
+**Tools & Platforms**
+- Git & GitHub
+- VS Code
+- Figma (basic)
+
+---
+
+## 📈 Currently Working On
+
+- Improving **Data Structures & Algorithms**
+- Building **production-ready full stack projects**
+- Strengthening **core CS fundamentals**
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: *Add your LinkedIn link here*
+- 💻 GitHub: *You’re already here 😉*
+- 📧 Email: *Add your email here*
