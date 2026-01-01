@@ -1,7 +1,7 @@
 # Hey 👋, I'm Neha  
 
 🎓 **B.Tech Computer Science Student**  
-💻 Frontend Developer | Aspiring Software Engineer  
+💻 Web Developer | Aspiring Software Engineer  
 🚀 Passionate about building clean, user-friendly web applications  
 
 ---
