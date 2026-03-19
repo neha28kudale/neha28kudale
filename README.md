@@ -1,7 +1,5 @@
 
 ```
-[etank0@github]~ $ ./about-me
-
  Hey! :D
  - I'm from India. 🇮🇳
  - Aspiring Software Engineer. 👨‍💻
