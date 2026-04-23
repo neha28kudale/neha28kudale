@@ -1,7 +1,7 @@
 
 ```
- Hey! :D
- - I'm from India. 🇮🇳
+Hey there!   
+- I'm Neha from India 🇮🇳  
  - Aspiring Software Engineer. 👨‍💻
  - Windows & Linux(GNU/Linux) User. 🐧
 ```
